@@ -1,0 +1,68 @@
+This is the best schedule with fitness score of: 9.800000
+
+SLA100A
+Beach 301
+11 AM
+Banks
+Fitness Score: 0.500000
+
+SLA100B
+Roman 201
+1 PM
+Banks
+Fitness Score: 0.500000
+
+SLA191A
+Beach 201
+12 PM
+Lock
+Fitness Score: 0.500000
+
+SLA191B
+Frank 119
+10 AM
+Lock
+Fitness Score: 0.500000
+
+SLA201
+Beach 201
+11 AM
+Glen
+Fitness Score: 0.500000
+
+SLA291
+Logos 325
+2 PM
+Banks
+Fitness Score: 0.300000
+
+SLA303
+Loft 310
+1 PM
+Glen
+Fitness Score: 0.500000
+
+SLA304
+Slater 003
+12 PM
+Glen
+Fitness Score: 0.500000
+
+SLA394
+Slater 003
+1 PM
+Singer
+Fitness Score: 0.500000
+
+SLA449
+Loft 310
+1 PM
+Tyler
+Fitness Score: 0.500000
+
+SLA451
+Beach 201
+2 PM
+Singer
+Fitness Score: 0.000000
+
